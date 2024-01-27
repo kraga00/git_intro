@@ -17,4 +17,8 @@ git log -- foo.py bar.py — по файлам, которые были изме
 git log -S "git" — поиск по содержимому файлов. Например, когда в файлы была добавлена или удалена строчка git.
 git log --no-merges — убрать из выборки мёрж-коммиты.
 git log --merges — выбрать только мёрж-коммиты.
-
+Введение в основы Git https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git
+Создание алиасов команд https://git-scm.com/book/ru/v2/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git-%D0%9F%D1%81%D0%B5%D0%B2%D0%B4%D0%BE%D0%BD%D0%B8%D0%BC%D1%8B-%D0%B2-Git 
+Как просматривать историю изменений на английском https://www.atlassian.com/git/tutorials/git-log
+Один из подходов к созданию веток https://www.atlassian.com/ru/git/tutorials/comparing-workflows/feature-branch-workflow 
+git rebase для начинающих https://habr.com/ru/post/337302/
